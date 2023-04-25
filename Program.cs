@@ -26,7 +26,7 @@ personne.DateDeNaissance = reader.ReadContentAsDateTime();
 reader.ReadEndElement();
 
 ///RECOMMENCE AVEC LA TAILLE
-reader.ReadStartElement("DateDeNaissance");
+reader.ReadStartElement("Taille");
 personne.Taille = reader.ReadContentAsInt();
 reader.ReadEndElement();
 
