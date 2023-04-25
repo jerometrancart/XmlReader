@@ -1,0 +1,15 @@
+C:\wamp64\www\.Net\Section_8\XmlReader\bin\Debug\net7.0\ExerciceXmlReader.exe
+C:\wamp64\www\.Net\Section_8\XmlReader\bin\Debug\net7.0\ExerciceXmlReader.deps.json
+C:\wamp64\www\.Net\Section_8\XmlReader\bin\Debug\net7.0\ExerciceXmlReader.runtimeconfig.json
+C:\wamp64\www\.Net\Section_8\XmlReader\bin\Debug\net7.0\ExerciceXmlReader.dll
+C:\wamp64\www\.Net\Section_8\XmlReader\bin\Debug\net7.0\ExerciceXmlReader.pdb
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.csproj.AssemblyReference.cache
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.AssemblyInfoInputs.cache
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.AssemblyInfo.cs
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.csproj.CoreCompileInputs.cache
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.dll
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\refint\ExerciceXmlReader.dll
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.pdb
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ExerciceXmlReader.genruntimeconfig.cache
+C:\wamp64\www\.Net\Section_8\XmlReader\obj\Debug\net7.0\ref\ExerciceXmlReader.dll
